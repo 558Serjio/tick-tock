@@ -4,6 +4,7 @@
 [Скоро]
 
 ## 🇺🇸 English Guide (Video)
+[soon]
 
 ## 🎵 Список мелодий / Song List
 * [Hard Drive.mid] MIDI URL: https://github.com/558Serjio/MIDID-File-for-Hytale-mod/raw/refs/heads/main/Hard%20Drive.mid
